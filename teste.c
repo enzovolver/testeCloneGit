@@ -10,6 +10,8 @@ int main(){
     }while(idade<0 || idade>100);
 
     printf("\nSua idade menos 1 é: %d\n", --idade);
+
+    printf("Sua idade normal é: %d\n", ++idade);
     return 0;
 
  }
