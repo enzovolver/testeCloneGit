@@ -12,4 +12,4 @@ int main(){
     printf("\nSua idade menos 1 é: %d\n", --idade);
     return 0;
 
-    }
+ }
